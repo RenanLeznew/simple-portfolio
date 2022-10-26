@@ -9,7 +9,7 @@ import Footer from "../src/components/Footer/Footer";
 
 function Home(){
     return(
-        <div className="text-3xl text-black align-middle h-screen">
+        <div className="text-black align-middle h-screen">
             <Head>
                 <title> About Me </title>
                 <link rel="icon" href="/icon.ico"/>
